@@ -1,2 +1,3 @@
 Fichero nuevo
 conflicto desde la rama main
+conflicto desde la rama segunda
